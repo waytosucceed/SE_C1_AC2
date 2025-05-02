@@ -1,0 +1,92 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Alex scored 79 and Sandra scored 15 more than Alex in a quiz. If their total score is 173, what was Sandra’s score?",
+    "options": ["94", "85", "97", "89"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q2",
+    "question": "There are 340 students in a school. If 125 are boys and the rest are girls, how many more girls than boys are there?",
+    "options": ["125", "120", "115", "90"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q3",
+    "question": "A factory produces 725 units of a product daily. It ships 489 units to wholesalers. How many units are left for local shops?",
+    "options": ["236", "242", "248", "251"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q4",
+    "question": "Find the number which exceeds 319 by 179.",
+    "options": ["498", "509", "495", "489"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q5",
+    "question": "Which number should be subtracted from 847 to get 389?",
+    "options": ["468", "458", "498", "438"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q6",
+    "question": "Find the sum of the two differences: (329 – 239) and (417 – 315).",
+    "options": ["191", "198", "192", "186"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q7",
+    "question": "After spending $145 on electronics and $89 on groceries, Martin had $275 left. What was his total amount of money before the purchases?",
+    "options": ["$475", "$509", "$389", "$422"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q8",
+    "question": "A company earned $235 in January and $475 in February. In March, it earned $85 less than in January. What is the total earnings over the three months?",
+    "options": ["$685", "$860", "$755", "$795"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q9",
+    "question": "An author wrote 148 pages in the first week, 175 in the second, and 42 less than the first week in the third week. What is the total number of pages written in three weeks?",
+    "options": ["421", "429", "423", "404"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q10",
+    "question": "A train traveled 145 km before lunch and 178 km after lunch. A second train traveled 99 km less than the first train. What is the total distance both trains traveled?",
+    "options": ["547 km", "522 km", "512 km", "499 km"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q11",
+    "question": "Team X scored 283 runs in the first innings and 167 in the second. Team Y scored 198 and 259 in two innings. Which team won and by how many runs?",
+    "options": ["Team X by 7 runs", "Team Y by 7 runs", "Team Y by 19 runs", "Team X by 13 runs"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q12",
+    "question": "A library had 480 books. They gave away 125 books and purchased 150 more. Later, 50 books were taken away due to damage. What is the final number of books?",
+    "options": ["455", "465", "505", "480"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q13",
+    "question": "An online store processed 225 orders on Monday and 180 on Tuesday. Wednesday’s orders were 90 fewer than the sum of Monday and Tuesday. How many total orders were processed over the three days?",
+    "options": ["705", "675", "720", "685"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q14",
+    "question": "A stadium had 800 tickets for sale. 235 were sold on the first day and 315 on the second. How many tickets were left unsold after the second day?",
+    "options": ["250", "230", "275", "215"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q15",
+    "question": "There were 320 participants in a conference. On the second day, 115 more joined. On the third day, 95 participants left. What is the total number of participants present at the end of the third day?",
+    "options": ["340", "330", "355", "375"],
+    "correct": 0
+  }
+]
