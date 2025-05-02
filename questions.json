@@ -31,7 +31,7 @@
   },
   {
     "questionNo": "Q6",
-    "question": "Find the sum of the two differences: (329 – 239) and (417 – 315).",
+    "question": "Find the sum of the two differences:<br> (329 – 239) and (417 – 315).",
     "options": ["191", "198", "192", "186"],
     "correct": 2
   },
